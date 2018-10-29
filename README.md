@@ -43,7 +43,7 @@ Now, you can find the front end at "http://localhost:8000/"
 - Populated Yelp Business Data on to Mongo DB
 - Developed Two RESTful APIs in Spring
     - getYelpBusiness (normal GET API) : to display Yelp Business data  
-    - getYelpBusinessAnalysis (Aggregate Query GET API): to get information about cities and the corresponding total no.of bussiness organizations present in city.
-- Developed a Simple Responsive Web Applocation in HTML and JS. Displayed content using the developed RESTful APIs. 
+    - getYelpBusinessAnalysis (Aggregate Query GET API): to get information about cities and the corresponding total no.of business organizations present in city.
+- Developed a Simple Responsive Web Application in HTML and JS. Displayed content using the developed RESTful APIs. 
 
 

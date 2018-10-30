@@ -47,4 +47,5 @@ Now, you can find the front end at "http://localhost:8000/"
 - Developed a Simple Responsive Web Application in HTML and JS. Displayed content using the developed RESTful APIs. 
 
 ### Note:
-### I changed the default port of my Spring Boot(in the application.properties file). So this application starts TomCat embedded in Spring at port 8090(rather than at 8080).
+#### I have changed the default port of my Spring Boot(in the application.properties file). So this application starts TomCat embedded in Spring at port 8090(rather than at 8080).
+

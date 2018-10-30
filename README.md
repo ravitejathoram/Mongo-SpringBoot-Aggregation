@@ -46,4 +46,5 @@ Now, you can find the front end at "http://localhost:8000/"
     - getYelpBusinessAnalysis (Aggregate Query GET API): to get information about cities and the corresponding total no.of business organizations present in city.
 - Developed a Simple Responsive Web Application in HTML and JS. Displayed content using the developed RESTful APIs. 
 
-
+### Note:
+### I changed the default port of my Spring Boot(in the application.properties file). So this application starts TomCat embedded in Spring at port 8090(rather than at 8080).

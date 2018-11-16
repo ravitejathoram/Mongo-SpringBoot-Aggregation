@@ -2,8 +2,6 @@
 This is a Demo project that demonstrates a Spring aggregate query on to Mongo DB.
 ### Tech
 The technologies/Concepts/tools used in this project are: (list implicitly specifies the requirements for project also)
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
 - Spring Boot
 - Mongo DB
 - AJAX
